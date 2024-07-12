@@ -18,7 +18,7 @@ This project uses Hibernate to manage product entities in a MySQL database. It a
 3. Run the application to perform database operations.
 
 ### Usage
-- Entity classes are defined in the `model` directory.
+- Entity classes are defined in the `pojo` directory.
 - Use `SessionFactory` to manage sessions with the database.
 - Examples of CRUD operations are available in the `Main` class.
 
