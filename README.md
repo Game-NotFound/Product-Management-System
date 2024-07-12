@@ -46,6 +46,6 @@ This project builds a user interface application using JavaFX, allowing users to
 ---
 
 ## Contact
-If you have any questions, please contact me at: [email@example.com].
+If you have any questions, please contact me at: [hhhau1910@gmail.com].
 
 Thank you for checking out this project!
